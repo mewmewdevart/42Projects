@@ -1,0 +1,1 @@
+B) Se não for especificado que o projeto seja feito numa VM, você testa no SEUWorkspaces. Se tiver algum problema técnico, pede para fazer a avaliação em outro momento ou pede para que a avaliada clone o repositório na sua frente e teste no Workspaces dela.

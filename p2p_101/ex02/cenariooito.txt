@@ -1,0 +1,1 @@
+C) Avisa a avaliadora que há um erro no seu projeto e pede que todas as questões seguintes sejam marcadas como incorretas, ou que flag de Crash seja utilizada caso pertinente.

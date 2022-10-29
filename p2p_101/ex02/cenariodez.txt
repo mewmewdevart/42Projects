@@ -1,0 +1,1 @@
+D) Pede para verificarem juntos o documento da Norma e identificarem o item que explica sobre o idioma obrigatório das variáveis. Aceita a decisão e corrige seu código para uma próxima entrega.
