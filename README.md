@@ -25,14 +25,21 @@
 
   \* For further information about 42's **selection process** (the "Piscine"), please visit the [C Piscine and Shell repo](https://github.com/mewmewdevart/42SP_Piscina). 🏊🏿‍♀️
   
-  ## 📁 Projects
-### Level 1 - **[libft](https://github.com/mewmewdevart/libft)**
+## 📁 Projects
+
+### Level -1 : **[peer2peer ](p2p_101)**
+  Évaluation and communication: How to use non-violent communication, and how to know how to behave in the face of different scenarios during peer2peer.
+
+### Level 0 : **[piscine-reloaded ](piscine_reloaded)**
+  It contains a best-of of the exercises we did during the Piscine C to remind us all the basics of the C programming language.
+
+### Level 1 : **[libft](https://github.com/mewmewdevart/libft)**
   Build your own basic C static library, which will be used throughout the rest of the program. The ```ft_*``` functions mostly mimic the behaviour of the traditional C functions, and must be written using at most ```write()``` and ```malloc()```.
 
-### Level 2 - **[get_next_line](https://github.com/mewmewdevart/get_next_line)**
+### Level 2 : **[get_next_line](https://github.com/mewmewdevart/get_next_line)**
   Read from a file descriptor and deliver one line, that is, a ```\n```-terminated string of chars.
 
-### Level 3 - **[ft_printf](https://github.com/mewmewdevart/ft_printf)**
+### Level 3 : **[ft_printf](https://github.com/mewmewdevart/ft_printf)**
   Recode the standard C library function, printf().
   <br>
   ...
