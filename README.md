@@ -25,5 +25,16 @@
 
   \* For further information about 42's **selection process** (the "Piscine"), please visit the [C Piscine and Shell repo](https://github.com/mewmewdevart/42SP_Piscina). 🏊🏿‍♀️
   
-  
+  ## 📁 Projects
+### Level 1 - **[libft](https://github.com/mewmewdevart/libft)**
+  Build your own basic C static library, which will be used throughout the rest of the program. The ```ft_*``` functions mostly mimic the behaviour of the traditional C functions, and must be written using at most ```write()``` and ```malloc()```.
+
+### Level 2 - **[get_next_line](https://github.com/mewmewdevart/get_next_line)**
+  Read from a file descriptor and deliver one line, that is, a ```\n```-terminated string of chars.
+
+### Level 3 - **[ft_printf](https://github.com/mewmewdevart/ft_printf)**
+  Recode the standard C library function, printf().
+  <br>
+  ...
+  <br>
   <p align="center"> Developed with love 💜 by Larissa Cristina Benedito (Mewmew/Larcrist). </p>
