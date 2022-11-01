@@ -28,22 +28,24 @@
 ## 📁 Projects
 
 ### Level -1 : **[peer2peer ](p2p_101)**
-  Évaluation and communication: How to use non-violent communication, and how to know how to behave in the face of different scenarios during peer2peer.
+  Évaluations: How to use non-violent communication, and how to know how to behave in the face of different scenarios during peer2peer. <br>
+└── Keywords: `Communication` `42Method` 
 
 ### Level 0 : **[piscine-reloaded ](piscine_reloaded)**
-  It contains a best-of of the exercises we did during the Piscine C to remind us all the basics of the C programming language.
+  It contains a best-of of the exercises we did during the Piscine C to remind us all the basics of the C programming language.<br>
+└── Keywords: `C` `Shell` 
 
 ### Level 1 : **[libft](https://github.com/mewmewdevart/libft)**
   Build your own basic C static library, which will be used throughout the rest of the program. The ```ft_*``` functions mostly mimic the behaviour of the traditional C functions, and must be written using at most ```write()``` and ```malloc()```. <br>
- - Topics: `Library` `Makefile`
+└── Keywords: `Library` `Makefile`
 
 ### Level 2 : **[get_next_line](https://github.com/mewmewdevart/get_next_line)**
   Read from a file descriptor and deliver one line, that is, a ```\n```-terminated string of chars. <br>
- - Topics: `File descriptor` `Static variables`
+└── Keywords: `File descriptor` `Static variables`
 
 ### Level 3 : **[ft_printf](https://github.com/mewmewdevart/ft_printf)**
   Recode the standard C library function, printf(). <br>
-  - Topics: `Variadic arguments` `Library` `Makefile`
+└── Keywords: `Variadic arguments` `Library` `Makefile`
  
   <br>
 //Soon...
