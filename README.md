@@ -34,14 +34,18 @@
   It contains a best-of of the exercises we did during the Piscine C to remind us all the basics of the C programming language.
 
 ### Level 1 : **[libft](https://github.com/mewmewdevart/libft)**
-  Build your own basic C static library, which will be used throughout the rest of the program. The ```ft_*``` functions mostly mimic the behaviour of the traditional C functions, and must be written using at most ```write()``` and ```malloc()```.
+  Build your own basic C static library, which will be used throughout the rest of the program. The ```ft_*``` functions mostly mimic the behaviour of the traditional C functions, and must be written using at most ```write()``` and ```malloc()```. <br>
+ - Topics: `Library` `Makefile`
 
 ### Level 2 : **[get_next_line](https://github.com/mewmewdevart/get_next_line)**
-  Read from a file descriptor and deliver one line, that is, a ```\n```-terminated string of chars.
+  Read from a file descriptor and deliver one line, that is, a ```\n```-terminated string of chars. <br>
+ - Topics: `File descriptor` `Static variables`
 
 ### Level 3 : **[ft_printf](https://github.com/mewmewdevart/ft_printf)**
-  Recode the standard C library function, printf().
+  Recode the standard C library function, printf(). <br>
+  - Topics: `Variadic arguments` `Library` `Makefile`
+ 
   <br>
-  ...
+//Soon...
   <br>
   <p align="center"> Developed with love 💜 by Larissa Cristina Benedito (Mewmew/Larcrist). </p>
