@@ -3,7 +3,7 @@
 	url = git@github.com:mewmewdevart/libft.git
 [submodule "get_next_line"]
 	path = get_next_line
-	url = https://github.com/mewmewdevart/get_next_line.git
+	url = git@github.com:mewmewdevart/get_next_line.git
 [submodule "ft_printf"]
 	path = ft_printf
-	url = https://github.com/mewmewdevart/ft_printf.git
+	url = git@github.com:mewmewdevart/ft_printf.git
