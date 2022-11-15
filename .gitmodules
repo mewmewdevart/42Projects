@@ -6,4 +6,10 @@
 	url = git@github.com:mewmewdevart/get_next_line.git
 [submodule "ft_printf"]
 	path = ft_printf
-	url = git@github.com:mewmewdevart/ft_printf.git
+        url = git@github.com:mewmewdevart/ft_printf.git
+[submodule "born2reboot"]
+        path = born2reboot
+        url = git@github.com:mewmewdevart/born2beroot.git
+[submodule "born2beroot"]
+	path = born2beroot
+	url = git@github.com:mewmewdevart/born2beroot.git
