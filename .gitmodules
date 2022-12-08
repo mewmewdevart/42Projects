@@ -7,6 +7,3 @@
 [submodule "ft_printf"]
 	path = ft_printf
         url = git@github.com:mewmewdevart/ft_printf.git
-[submodule "born2beroot"]
-	path = born2beroot
-	url = git@github.com:mewmewdevart/born2beroot.git
