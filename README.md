@@ -51,6 +51,10 @@
 This project aims to introduce you to the wonderful world of virtualization. <br>
 └── Keywords: `Network & system administration` 
 
+### Level 5 : **[so_long](https://github.com/mewmewdevart/so_long)**
+This project is a very small 2D game. Its purpose is to make you work with textures, sprites,
+and some other very basic gameplay elements <br>
+└── Keywords: `Imperative programming`  `Graphics`
  
   <br>
 //Soon...
