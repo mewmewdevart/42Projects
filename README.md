@@ -17,13 +17,15 @@
 </h1>
 
 <p align="center">
-	<b><i>Projects developed at <a href="https://www.42sp.org.br/">42 São Paulo</a> programming school.</i></b><br>
+	<b><i>Projects developed at <a href="https://www.42sp.org.br/">42 São Paulo</a>, a programming school.</i></b><br>
 	Start date: 05/september/2022 - Currently
 </p>
 
-> _42 is a global education initiative that offers a new way of learning technology: no teachers, no classrooms, students learning from their fellow students (peer to peer learning), with a methodology that develops both computing and life skills. The 42 cursus is free for whoever is approved in its selection process* - the so-called "Piscine" - becoming thus "cadets" (42's students).
+> 42 Ecole (also known simply as "42") is a French programming school founded in 2013. The school does not charge tuition fees and offers a project-based learning program, in which students learn programming through practical projects instead of traditional classes. The school is also known for its unconventional approach to education, which emphasizes collaboration, problem-solving, and self-directed learning. <br><br>
+This repository is a collection of projects developed by me at 42 Sao Paulo. Here, you will find a variety of projects from the school's curriculum, ranging from basic programming exercises to complex and innovative software applications. <br><br>
 
-  \* For further information about 42's **selection process** (the "Piscine"), please visit the [C Piscine and Shell repo](https://github.com/mewmewdevart/42SP_Piscina). 🏊🏿‍♀️
+The 42 cursus is free for whoever is approved in its selection process* - the so-called "Piscine" - becoming thus "cadets" (42's students). <br>
+👉 For more information about 42's **selection process** (the "Piscine"), please visit the [C Piscine and Shell repo](https://github.com/mewmewdevart/42SP_Piscina). 🏊🏿‍♀️
   
 ## 📁 Projects
 
