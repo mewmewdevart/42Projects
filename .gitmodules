@@ -10,3 +10,6 @@
 [submodule "born2beroot"]
 	path = born2beroot
 	url = git@github.com:mewmewdevart/born2beroot.git
+[submodule "so_long"]
+	path = so_long
+	url = git@github.com:mewmewdevart/so_long.git
