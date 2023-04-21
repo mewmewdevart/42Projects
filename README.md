@@ -57,6 +57,10 @@ This project aims to introduce you to the wonderful world of virtualization. <br
 This project is a very small 2D game. Its purpose is to make you work with textures, sprites,
 and some other very basic gameplay elements <br>
 └── Keywords: `Imperative programming`  `Graphics`
+
+### Level 6 : **[pipex](https://github.com/mewmewdevart/pipex)**
+A project that teaches inter-process communication using pipes by recreating shell pipelines. <br>
+└── Keywords: `Unix`  `C`
  
   <br>
 //Soon...
