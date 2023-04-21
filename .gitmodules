@@ -13,3 +13,6 @@
 [submodule "so_long"]
 	path = so_long
 	url = git@github.com:mewmewdevart/so_long.git
+[submodule "pipex"]
+	path = pipex
+	url = git@github.com:mewmewdevart/pipex.git
