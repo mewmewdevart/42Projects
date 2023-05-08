@@ -35,23 +35,38 @@ The 42 cursus is free for whoever is approved in its selection process* - the so
 
 ### Level 0 : **[piscine-reloaded ](piscine_reloaded)**
   It contains a best-of of the exercises we did during the Piscine C to remind us all the basics of the C programming language.<br>
-└── Keywords: `C` `Shell` 
+└── Keywords: `C` `Shell`
 
+---
+<a href="https://github.com/mewmewdevart/libft" target="_blank"> <img align="center" alt="Libft"  width="125" src="https://user-images.githubusercontent.com/50052600/196073772-031277d6-8122-4ce5-8837-2b62879bd59d.png"> </a>
+ 
 ### Level 1 : **[libft](https://github.com/mewmewdevart/libft)**
   Build your own basic C static library, which will be used throughout the rest of the program. The ```ft_*``` functions mostly mimic the behaviour of the traditional C functions, and must be written using at most ```write()``` and ```malloc()```. <br>
 └── Keywords: `Library` `Makefile`
+
+---
+<a href="https://github.com/mewmewdevart/get_next_line" target="_blank"> <img align="center" alt="GNL"  width="125" src="https://user-images.githubusercontent.com/50052600/200047331-f2de6963-e1ee-452b-8ced-5aa2be6453b0.png"> </a>
 
 ### Level 2 : **[get_next_line](https://github.com/mewmewdevart/get_next_line)**
   Read from a file descriptor and deliver one line, that is, a ```\n```-terminated string of chars. <br>
 └── Keywords: `File descriptor` `Static variables`
 
+---
+<a href="https://github.com/mewmewdevart/ft_printf" target="_blank"> <img align="center" alt="FT_PRINTF"  width="125" src="https://user-images.githubusercontent.com/50052600/202605092-3f63565e-f8d0-489c-a429-aff50873fe52.png"> </a>
+
 ### Level 3 : **[ft_printf](https://github.com/mewmewdevart/ft_printf)**
   Recode the standard C library function, printf(). <br>
 └── Keywords: `Variadic arguments` `Library` `Makefile`
 
+---
+<a href="https://github.com/mewmewdevart/born2beroot" target="_blank"> <img align="center" alt="FT_PRINTF"  width="125" src="https://user-images.githubusercontent.com/50052600/211400216-8d671f57-fa33-4833-a764-11ec0f948274.png"> </a>
+
 ### Level 4 : **[born2reboot](https://github.com/mewmewdevart/born2beroot)**
 This project aims to introduce you to the wonderful world of virtualization. <br>
 └── Keywords: `Network & system administration` 
+
+---
+<a href="https://github.com/mewmewdevart/so_long" target="_blank"> <img align="center" alt="FT_PRINTF"  width="125" src="https://user-images.githubusercontent.com/50052600/236716466-c67683ba-7095-478f-a63e-cb866cbd603c.png"> </a>
 
 ### Level 5 : **[so_long](https://github.com/mewmewdevart/so_long)**
 This project is a very small 2D game. Its purpose is to make you work with textures, sprites,
