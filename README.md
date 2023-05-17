@@ -72,7 +72,7 @@ With the So_Long project, I designed and implemented my own 2D game. This allowe
 └── Keywords: `2D Game`, `Graphics Rendering`, `Interactive Gameplay`, `Game Development`
 
 ### Project_06/**[pipex](https://github.com/mewmewdevart/pipex)**  ↔️📝
-ipex involved creating a program that simulated the functionality of Unix pipelines, executing multiple commands in sequence. It provided valuable experience in process management, interprocess communication, and command execution. <br>
+Pipex involved creating a program that simulated the functionality of Unix pipelines, executing multiple commands in sequence. It provided valuable experience in process management, interprocess communication, and command execution. <br>
 └── Keywords: `Unix Pipelines`, `Command Execution`, `Process Management`, `Interprocess Communication`
  
 --- 
