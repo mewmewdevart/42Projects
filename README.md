@@ -21,64 +21,64 @@
 	Start date: 05/september/2022 - Currently
 </p>
 
-> 42 Ecole (also known simply as "42") is a French programming school founded in 2013. The school does not charge tuition fees and offers a project-based learning program, in which students learn programming through practical projects instead of traditional classes. The school is also known for its unconventional approach to education, which emphasizes collaboration, problem-solving, and self-directed learning. <br><br>
-This repository is a collection of projects developed by me at 42 Sao Paulo. Here, you will find a variety of projects from the school's curriculum, ranging from basic programming exercises to complex and innovative software applications. <br><br>
+> 42 Ecole (also known simply as "42") is a French programming school that was founded in 2013. The school does not charge tuition fees and offers a project-based learning program, where students learn programming through practical projects rather than traditional classes. The school is renowned for its unconventional approach to education, which focuses on collaboration, problem-solving, and self-directed learning. <br><br>
+This repository is a compilation of projects that I have developed during my time at 42 Sao Paulo. Here, you will discover a diverse compilation of projects from the school's common-curriculum. <br><br>
 
-The 42 cursus is free for whoever is approved in its selection process* - the so-called "Piscine" - becoming thus "cadets" (42's students). <br>
-👉 For more information about 42's **selection process** (the "Piscine"), please visit the [C Piscine and Shell repo](https://github.com/mewmewdevart/42SP_Piscina). 🏊🏿‍♀️
+<br>
+The 42 cursus is free for individuals who are accepted through its rigorous selection process, known as the "Piscine." These successful candidates become cadets (students) of 42. <br>
+For more detailed information about the selection process, commonly referred to as the "Piscine," please visit the [C Piscine and Shell Repository](https://github.com/mewmewdevart/42SP_Piscina). 🏊🏿‍♀️
   
 ## 📁 Projects
 
-### Level -1 : **[peer2peer ](p2p_101)**
+### Level_00/**[peer2peer ](p2p_101)**
   Évaluations: How to use non-violent communication, and how to know how to behave in the face of different scenarios during peer2peer. <br>
 └── Keywords: `Communication` `42Method` 
 
-### Level 0 : **[piscine-reloaded ](piscine_reloaded)**
+### Level_00/**[piscine-reloaded ](piscine_reloaded)**
   It contains a best-of of the exercises we did during the Piscine C to remind us all the basics of the C programming language.<br>
 └── Keywords: `C` `Shell`
 
 ---
-<a href="https://github.com/mewmewdevart/libft" target="_blank"> <img align="center" alt="Libft"  width="125" src="https://user-images.githubusercontent.com/50052600/196073772-031277d6-8122-4ce5-8837-2b62879bd59d.png"> </a>
+
+<p align="center">
+  <img src="https://github.com/mewmewdevart/42Projects/assets/50052600/732b89dc-58e1-4842-8552-303da252e817" alt="Badge Pipex"/>
+</p>
+
+<h2 align="center">
+ Entrando em Orbita
+</h2> 
+I successfully completed the first phase (out of three) of the Common Core at 42 São Paulo. <br> This phase provided me with the opportunity to undertake six challenging projects; Libft, GNL, Ft_printf, Born2BeRoot, So_long and Pipex. <br> <br>
+
+
+### Project_01/**[Libft](https://github.com/mewmewdevart/libft)** 📚
+This project involved creating my own personal static library of functions. It is a collection of functions that imitate the behavior of traditional functions such as ```strlen```, ```strcpy```, and more. The challenge of the project was to create functions that replicate the same functionality as these original functions using restricted functions like ```write``` and ```malloc```. <br>
+Developing the Libft made me understand string manipulation, dynamic memory allocation, the usage of Makefile for compilation, and gain familiarity with fundamental concepts related to static libraries in C. <br>
+└── Keywords: `Static Library` , `Makefile`, `Functions`, `String Manipulation`, `Memory Allocation`
+
+### Project_02/**[Get Next Line (GNL)](https://github.com/mewmewdevart/get_next_line)**  📃
+The GNL project focused on reading content from a file descriptor line by line, honing my file handling skills and improving my understanding of input/output operations in C. <br>
+└── Keywords: `File descriptor`, `Static variables`, `File Reading`, `Input/Output`
+
+### Project_03/**[ft_printf](https://github.com/mewmewdevart/ft_printf)** 🖨️
+In this project, I developed my own version of the printf function. It required a deep understanding of formatting and printing data in different formats, enhancing my knowledge of this fundamental function.
+└── Keywords: : `Formatting`, `Printing`, `Variadic Arguments`, `Format Specifiers`
+
+### Project_04/**[born2reboot](https://github.com/mewmewdevart/born2beroot)** 💻
+This captivating project involved configuring and customizing my own operating system on a virtual machine. It delved into low-level systems programming and offered hands-on experience with system configuration and management in the 🐧 system. <br>
+└── Keywords: `Operating System`, `Virtual Machine`, `Configuration`, `System Management`
+
+### Project_05/**[so_long](https://github.com/mewmewdevart/so_long)** 🎮
+With the So_Long project, I designed and implemented my own 2D game. This allowed me to explore game development concepts, graphics rendering, and interactive gameplay mechanics. <br>
+└── Keywords: `2D Game`, `Graphics Rendering`, `Interactive Gameplay`, `Game Development`
+
+### Project_06/**[pipex](https://github.com/mewmewdevart/pipex)**  ↔️📝
+ipex involved creating a program that simulated the functionality of Unix pipelines, executing multiple commands in sequence. It provided valuable experience in process management, interprocess communication, and command execution. <br>
+└── Keywords: `Unix Pipelines`, `Command Execution`, `Process Management`, `Interprocess Communication`
  
-### Level 1 : **[libft](https://github.com/mewmewdevart/libft)**
-  Build your own basic C static library, which will be used throughout the rest of the program. The ```ft_*``` functions mostly mimic the behaviour of the traditional C functions, and must be written using at most ```write()``` and ```malloc()```. <br>
-└── Keywords: `Library` `Makefile`
+--- 
 
----
-<a href="https://github.com/mewmewdevart/get_next_line" target="_blank"> <img align="center" alt="GNL"  width="125" src="https://user-images.githubusercontent.com/50052600/200047331-f2de6963-e1ee-452b-8ced-5aa2be6453b0.png"> </a>
 
-### Level 2 : **[get_next_line](https://github.com/mewmewdevart/get_next_line)**
-  Read from a file descriptor and deliver one line, that is, a ```\n```-terminated string of chars. <br>
-└── Keywords: `File descriptor` `Static variables`
-
----
-<a href="https://github.com/mewmewdevart/ft_printf" target="_blank"> <img align="center" alt="FT_PRINTF"  width="125" src="https://user-images.githubusercontent.com/50052600/202605092-3f63565e-f8d0-489c-a429-aff50873fe52.png"> </a>
-
-### Level 3 : **[ft_printf](https://github.com/mewmewdevart/ft_printf)**
-  Recode the standard C library function, printf(). <br>
-└── Keywords: `Variadic arguments` `Library` `Makefile`
-
----
-<a href="https://github.com/mewmewdevart/born2beroot" target="_blank"> <img align="center" alt="FT_PRINTF"  width="125" src="https://user-images.githubusercontent.com/50052600/211400216-8d671f57-fa33-4833-a764-11ec0f948274.png"> </a>
-
-### Level 4 : **[born2reboot](https://github.com/mewmewdevart/born2beroot)**
-This project aims to introduce you to the wonderful world of virtualization. <br>
-└── Keywords: `Network & system administration` 
-
----
-<a href="https://github.com/mewmewdevart/so_long" target="_blank"> <img align="center" alt="FT_PRINTF"  width="125" src="https://user-images.githubusercontent.com/50052600/236716466-c67683ba-7095-478f-a63e-cb866cbd603c.png"> </a>
-
-### Level 5 : **[so_long](https://github.com/mewmewdevart/so_long)**
-This project is a very small 2D game. Its purpose is to make you work with textures, sprites,
-and some other very basic gameplay elements <br>
-└── Keywords: `Imperative programming`  `Graphics`
-
-### Level 6 : **[pipex](https://github.com/mewmewdevart/pipex)**
-A project that teaches inter-process communication using pipes by recreating shell pipelines. <br>
-└── Keywords: `Unix`  `C`
- 
-  <br>
-//Soon...
+// In Development..
   <br>
   <p align="center"> Developed with love 💜 by Larissa Cristina Benedito (Mewmew/Larcrist). </p>
 
