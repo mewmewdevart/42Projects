@@ -18,7 +18,7 @@
 
 <p align="center">
 	<b><i>Projects developed at <a href="https://www.42sp.org.br/">42 São Paulo</a>, a programming school.</i></b><br>
-	Start date: 05/september/2022 - Currently
+	Start date: September 5, 2022 – January 1, 2024. (To be continue).
 </p>
 
 > 42 Ecole (also known simply as "42") is a French programming school that was founded in 2013. The school does not charge tuition fees and offers a project-based learning program, where students learn programming through practical projects rather than traditional classes. The school is renowned for its unconventional approach to education, which focuses on collaboration, problem-solving, and self-directed learning. <br>
@@ -36,7 +36,6 @@ For more detailed information about the selection process, commonly referred to 
 This project serves as a compilation of the best exercises from the Piscine C, aimed at refreshing our understanding of the fundamental concepts of the C programming language. <br>
 └── Keywords: `C` `Shell`
 
----
 
 <p align="center">
   <img src="https://github.com/mewmewdevart/42Projects/assets/50052600/732b89dc-58e1-4842-8552-303da252e817" alt="Badge Pipex"/>
@@ -49,7 +48,6 @@ This project serves as a compilation of the best exercises from the Piscine C, a
 <p align="center">
 I successfully completed the first phase (out of three) of the Common Core at 42 São Paulo. <br> This phase provided me with the opportunity to undertake six challenging projects; Libft, GNL, Ft_printf, Born2BeRoot, So_long and Pipex.
 </p>
-
 
 ### Project_01/**[Libft](https://github.com/mewmewdevart/libft)** 📚
 This project involved creating my own personal static library of functions. It is a collection of functions that imitate the behavior of traditional functions such as ```strlen```, ```strcpy```, and more. The challenge of the project was to create functions that replicate the same functionality as these original functions using restricted functions like ```write``` and ```malloc```. <br>
@@ -75,11 +73,11 @@ With the So_Long project, I designed and implemented my own 2D game. This allowe
 ### Project_06/**[Pipex](https://github.com/mewmewdevart/pipex)**  ↔️📝
 Pipex involved creating a program that simulated the functionality of Unix pipelines, executing multiple commands in sequence. It provided valuable experience in process management, interprocess communication, and command execution. <br>
 └── Keywords: `Unix Pipelines`, `Command Execution`, `Process Management`, `Interprocess Communication`
+
  
---- 
+<p align="center">
+	<b><i>I left 42 for now, but I’ll return soon. So long, and thanks for all the fish!</i></b><br>
+</p>
 
-
-// In Development..
-  <br>
-  <p align="center"> Developed with love 💜 by Larissa Cristina Benedito (Mewmew/Larcrist). </p>
+<p align="center"> Developed with love 💜 by Larissa Cristina Benedito (Mewmew/Larcrist). </p>
 
