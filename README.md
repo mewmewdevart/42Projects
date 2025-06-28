@@ -43,7 +43,7 @@ This project compiles the best exercises from Piscine C, serving as a refresher 
 
 
 <p align="center">
-  <img src="https://github.com/mewmewdevart/42Projects/assets/50052600/732b89dc-58e1-4842-8552-303da252e817" alt="Badge Pipex"/>
+  <img src="https://github.com/mewmewdevart/42Projects/assets/50052600/732b89dc-58e1-4842-8552-303da252e817" alt="Badge Entrando em orbita"/>
 </p>
 
 
@@ -52,7 +52,7 @@ This project compiles the best exercises from Piscine C, serving as a refresher 
 </h2> 
 
 <p align="center">
-I successfully completed the first of three phases of the Common Core at 42 São Paulo. This phase provided me with the opportunity to undertake six challenging projects: Libft, GNL, Ft\_printf, Born2BeRoot, So\_long, and Pipex.
+I successfully completed the first of three phases of the Common Core at 42 São Paulo. This phase provided me with the opportunity to undertake six challenging projects: Libft, GNL, Ft_printf, Born2BeRoot, So_long, and Pipex.
 </p>
 
 ### Project_01/**[Libft](https://github.com/mewmewdevart/libft)** 📚
